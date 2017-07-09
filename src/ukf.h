@@ -10,6 +10,8 @@
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
 
+using namespace std;
+
 class UKF {
 public:
 
